@@ -10,7 +10,7 @@ namespace Bonus_13
     {
         //public int Mana { get; set; }
         string Name;
-        string WeaponType;
+
         int Strength;
         int Intelligence;
         int Mana;
