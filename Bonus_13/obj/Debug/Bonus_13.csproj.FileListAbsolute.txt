@@ -1,0 +1,7 @@
+C:\Users\jstiles\source\repos\Bonus_13\Bonus_13\bin\Debug\Bonus_13.exe.config
+C:\Users\jstiles\source\repos\Bonus_13\Bonus_13\bin\Debug\Bonus_13.exe
+C:\Users\jstiles\source\repos\Bonus_13\Bonus_13\bin\Debug\Bonus_13.pdb
+C:\Users\jstiles\source\repos\Bonus_13\Bonus_13\obj\Debug\Bonus_13.csprojAssemblyReference.cache
+C:\Users\jstiles\source\repos\Bonus_13\Bonus_13\obj\Debug\Bonus_13.csproj.CoreCompileInputs.cache
+C:\Users\jstiles\source\repos\Bonus_13\Bonus_13\obj\Debug\Bonus_13.exe
+C:\Users\jstiles\source\repos\Bonus_13\Bonus_13\obj\Debug\Bonus_13.pdb
